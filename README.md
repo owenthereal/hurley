@@ -1,7 +1,7 @@
 Hurley
 ======
 
-Hurley and Faraday are both from the [lost island](lostisland).
+Hurley and Faraday are both from the [lost island](https://github.com/lostisland).
 
 ```go
 package main
