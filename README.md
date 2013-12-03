@@ -27,3 +27,5 @@ func main() {
   resp, err := c.Get("https://api.github.com/repos/jingweno/hurley")
 }
 ```
+
+See [test](https://github.com/jingweno/hurley/blob/master/hurley_test.go) as an example.
